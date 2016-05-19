@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Labor1", "Labor1\Labor1.vcxproj", "{ED2BB11A-6958-4024-9152-30F2A0C53364}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Logger", "Logger\Logger.vcxproj", "{09903A10-44B9-45E2-842E-07CB81D2AB1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED2BB11A-6958-4024-9152-30F2A0C53364}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED2BB11A-6958-4024-9152-30F2A0C53364}.Debug|Win32.Build.0 = Debug|Win32
+		{ED2BB11A-6958-4024-9152-30F2A0C53364}.Release|Win32.ActiveCfg = Release|Win32
+		{ED2BB11A-6958-4024-9152-30F2A0C53364}.Release|Win32.Build.0 = Release|Win32
+		{09903A10-44B9-45E2-842E-07CB81D2AB1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09903A10-44B9-45E2-842E-07CB81D2AB1D}.Debug|Win32.Build.0 = Debug|Win32
+		{09903A10-44B9-45E2-842E-07CB81D2AB1D}.Release|Win32.ActiveCfg = Release|Win32
+		{09903A10-44B9-45E2-842E-07CB81D2AB1D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
